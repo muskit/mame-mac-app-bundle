@@ -1,5 +1,7 @@
 A .app template for MAME on macOS, allowing for easier and more elegant launch of MAME.
 
+Since this only contains a shell script, it will not hinder performance between architectures (ARM/x86).
+
 **NOTE:** I advise against placing the app in `/Applications` as this may cause permission issues.
 
 ## Instructions
